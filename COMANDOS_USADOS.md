@@ -13,7 +13,7 @@ exit
 8 - switchport mode access
 9 - switchport access vlan 20
 exit
-7 - interface fastethernet 1/1
-8 - switchport mode access
-9 - switchport access vlan 10
+10 - interface fastethernet 1/1
+11 - switchport mode access
+12 - switchport access vlan 10
 aí é só fazer isso em todos os switches de borda :) os pcs e os laptops só irão poder comunicar entre outros na mesma vlan dps de configurar as portas trunk entre os switchs
